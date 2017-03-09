@@ -1,0 +1,274 @@
+2015-05-05 16:51:12 Debug: 
+From: Contato <lorranne@aquainterativa.com.br>
+To: lorranne@aquainterativa.com.br
+X-Mailer: CakePHP Email
+Date: Tue, 05 May 2015 16:51:12 +0200
+Message-ID: <5548d8e04c544d558e4704507aa2a7e8@localhost>
+Subject: Contato - PAI =?UTF-8?B?aW1vYmlsacOhcmlh?=
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+<table width="100%" cellpadding="5" cellspacing="5" >
+    <tr style="width:100%; margin-top:20px; display:block; float:left">
+        <td colspan="2"><a href="http://imobiliariapai.com.br"><img src="http://imobiliariapai.com.br/site/img/topo_email.png" border="0"></a></td>
+    </tr>
+    <tr style="width:100%; margin-top:10px; display:block; float:left">
+        <td style="width: 17px;">&nbsp;</td>
+        <td style="width: 583px;"><h2 style="font-size:16px;margin:10px 10px 0 0;">Contato realizado a partir do formulário do site. Os dados da mensagem são:</h2></td>
+    </tr>
+    <tr style="width:100%; margin-top:10px; display:block; float:left">
+        <td style="width: 17px;">&nbsp;</td>
+        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Nome:</strong> </p></td>
+    </tr>
+    <tr style="width:100%; margin-top:10px; display:block; float:left">
+        <td style="width: 17px;">&nbsp;</td>
+        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>E-mail:</strong> </p></td>
+    </tr>
+    <tr style="width:100%; margin-top:10px; display:block; float:left">
+        <td style="width: 17px;">&nbsp;</td>
+        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Telefone:</strong> </p></td>
+    </tr>
+    <tr style="width:100%; margin-top:10px; display:block; float:left">
+        <td style="width: 17px;">&nbsp;</td>
+        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Código do imóvel:</strong> </p></td>
+    </tr>
+    <tr style="width:100%; margin-top:10px; display:block; float:left">
+        <td style="width: 17px;">&nbsp;</td>
+        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Mensagem:</strong> </p></td>
+    </tr>
+     <tr style="width:100%; margin-top:20px; display:block; float:left">
+        <td colspan="2"><img src="http://imobiliariapai.com.br/site/img/rodape_email.png"></td>
+    </tr>
+</table>
+
+
+
+2015-05-05 17:03:42 Debug: 
+From: lorranne <lorranne@aquainterativa.com.br>
+To: lorranne@aquainterativa.com.br
+X-Mailer: CakePHP Email
+Date: Tue, 05 May 2015 17:03:42 +0200
+Message-ID: <5548dbcee3984da9bbb604507aa2a7e8@localhost>
+Subject: Contato - PAI =?UTF-8?B?aW1vYmlsacOhcmlh?=
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+<table width="100%" cellpadding="5" cellspacing="5" >
+    <tr style="width:100%; margin-top:20px; display:block; float:left">
+        <td colspan="2"><a href="http://imobiliariapai.com.br"><img src="http://imobiliariapai.com.br/site/img/topo_email.png" border="0"></a></td>
+    </tr>
+    <tr style="width:100%; margin-top:10px; display:block; float:left">
+        <td style="width: 17px;">&nbsp;</td>
+        <td style="width: 583px;"><h2 style="font-size:16px;margin:10px 10px 0 0;">Contato realizado a partir do formulário do site. Os dados da mensagem são:</h2></td>
+    </tr>
+    <tr style="width:100%; margin-top:10px; display:block; float:left">
+        <td style="width: 17px;">&nbsp;</td>
+        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Nome:</strong> lorranne</p></td>
+    </tr>
+    <tr style="width:100%; margin-top:10px; display:block; float:left">
+        <td style="width: 17px;">&nbsp;</td>
+        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>E-mail:</strong> lorranne@aquainterativa.com.br</p></td>
+    </tr>
+    <tr style="width:100%; margin-top:10px; display:block; float:left">
+        <td style="width: 17px;">&nbsp;</td>
+        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Telefone:</strong> (19) 28918-2912</p></td>
+    </tr>
+    <tr style="width:100%; margin-top:10px; display:block; float:left">
+        <td style="width: 17px;">&nbsp;</td>
+        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Código do imóvel:</strong> 18291829</p></td>
+    </tr>
+    <tr style="width:100%; margin-top:10px; display:block; float:left">
+        <td style="width: 17px;">&nbsp;</td>
+        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Mensagem:</strong> asdasdasd</p></td>
+    </tr>
+     <tr style="width:100%; margin-top:20px; display:block; float:left">
+        <td colspan="2"><img src="http://imobiliariapai.com.br/site/img/rodape_email.png"></td>
+    </tr>
+</table>
+
+
+
+2015-05-06 13:16:11 Debug: 
+From: Lorranne <lorranne@aquainterativa.com.br>
+To: lorranne@aquainterativa.com.br
+X-Mailer: CakePHP Email
+Date: Wed, 06 May 2015 13:16:11 +0200
+Message-ID: <5549f7fbf2ec4ca5900e0ab87aa2a7e8@localhost>
+Subject: Interesse por =?UTF-8?B?aW3Ds3ZlbCAtIFBBSSBpbW9iaWxpw6FyaWE=?=
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+<table width="100%" cellpadding="5" cellspacing="5" >
+    <tr style="width:100%; margin-top:20px; display:block; float:left">
+        <td colspan="2"><a href="http://imobiliariapai.com.br"><img src="http://imobiliariapai.com.br/site/img/topo_email.png" border="0"></a></td>
+    </tr>
+    <tr style="width:100%; margin-top:10px; display:block; float:left">
+        <td style="width: 17px;">&nbsp;</td>
+        <td style="width: 583px;"><h2 style="font-size:16px;margin:10px 10px 0 0;">Contato realizado a partir do formulário do site. Os dados da mensagem são:</h2></td>
+    </tr>
+    <tr style="width:100%; margin-top:10px; display:block; float:left">
+        <td style="width: 17px;">&nbsp;</td>
+        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Nome:</strong> Lorranne</p></td>
+    </tr>
+    <tr style="width:100%; margin-top:10px; display:block; float:left">
+        <td style="width: 17px;">&nbsp;</td>
+        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>E-mail:</strong> lorranne@aquainterativa.com.br</p></td>
+    </tr>
+    <tr style="width:100%; margin-top:10px; display:block; float:left">
+        <td style="width: 17px;">&nbsp;</td>
+        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Telefone:</strong> (45) 45450-7454</p></td>
+    </tr>
+    <tr style="width:100%; margin-top:10px; display:block; float:left">
+        <td style="width: 17px;">&nbsp;</td>
+        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Mensagem:</strong> 9898989898</p></td>
+    </tr>
+
+    <tr style="width:100%; margin-top:10px; display:block; float:left">
+        <td style="width: 17px;">&nbsp;</td>
+        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Imóvel:</strong> %%URL%%</p></td>
+    </tr>
+     <tr style="width:100%; margin-top:20px; display:block; float:left">
+        <td colspan="2"><img src="http://imobiliariapai.com.br/site/img/rodape_email.png"></td>
+    </tr>
+</table>
+
+
+
+2015-05-06 13:16:53 Debug: 
+From: Lorranne <lorranne@aquainterativa.com.br>
+To: lorranne@aquainterativa.com.br
+X-Mailer: CakePHP Email
+Date: Wed, 06 May 2015 13:16:53 +0200
+Message-ID: <5549f825a89845228f2d0ab87aa2a7e8@localhost>
+Subject: Interesse por =?UTF-8?B?aW3Ds3ZlbCAtIFBBSSBpbW9iaWxpw6FyaWE=?=
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+<table width="100%" cellpadding="5" cellspacing="5" >
+    <tr style="width:100%; margin-top:20px; display:block; float:left">
+        <td colspan="2"><a href="http://imobiliariapai.com.br"><img src="http://imobiliariapai.com.br/site/img/topo_email.png" border="0"></a></td>
+    </tr>
+    <tr style="width:100%; margin-top:10px; display:block; float:left">
+        <td style="width: 17px;">&nbsp;</td>
+        <td style="width: 583px;"><h2 style="font-size:16px;margin:10px 10px 0 0;">Contato realizado a partir do formulário do site. Os dados da mensagem são:</h2></td>
+    </tr>
+    <tr style="width:100%; margin-top:10px; display:block; float:left">
+        <td style="width: 17px;">&nbsp;</td>
+        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Nome:</strong> Lorranne</p></td>
+    </tr>
+    <tr style="width:100%; margin-top:10px; display:block; float:left">
+        <td style="width: 17px;">&nbsp;</td>
+        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>E-mail:</strong> lorranne@aquainterativa.com.br</p></td>
+    </tr>
+    <tr style="width:100%; margin-top:10px; display:block; float:left">
+        <td style="width: 17px;">&nbsp;</td>
+        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Telefone:</strong> (45) 45450-7454</p></td>
+    </tr>
+    <tr style="width:100%; margin-top:10px; display:block; float:left">
+        <td style="width: 17px;">&nbsp;</td>
+        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Mensagem:</strong> 9898989898</p></td>
+    </tr>
+
+    <tr style="width:100%; margin-top:10px; display:block; float:left">
+        <td style="width: 17px;">&nbsp;</td>
+        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Imóvel:</strong> /pai_imobiliaria/Desenvolvimento/site/imovel/apartamento-7</p></td>
+    </tr>
+     <tr style="width:100%; margin-top:20px; display:block; float:left">
+        <td colspan="2"><img src="http://imobiliariapai.com.br/site/img/rodape_email.png"></td>
+    </tr>
+</table>
+
+
+
+2015-05-06 13:18:42 Debug: 
+From: Lorranne Nayara Porto Siqueira <lorranne@aquainterativa.com.br>
+To: lorranne@aquainterativa.com.br
+X-Mailer: CakePHP Email
+Date: Wed, 06 May 2015 13:18:42 +0200
+Message-ID: <5549f89266e84910a2d20ab87aa2a7e8@localhost>
+Subject: Interesse por =?UTF-8?B?aW3Ds3ZlbCAtIFBBSSBpbW9iaWxpw6FyaWE=?=
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+<table width="100%" cellpadding="5" cellspacing="5" >
+    <tr style="width:100%; margin-top:20px; display:block; float:left">
+        <td colspan="2"><a href="http://imobiliariapai.com.br"><img src="http://imobiliariapai.com.br/site/img/topo_email.png" border="0"></a></td>
+    </tr>
+    <tr style="width:100%; margin-top:10px; display:block; float:left">
+        <td style="width: 17px;">&nbsp;</td>
+        <td style="width: 583px;"><h2 style="font-size:16px;margin:10px 10px 0 0;">Contato realizado a partir do formulário do site. Os dados da mensagem são:</h2></td>
+    </tr>
+    <tr style="width:100%; margin-top:10px; display:block; float:left">
+        <td style="width: 17px;">&nbsp;</td>
+        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Nome:</strong> Lorranne Nayara Porto Siqueira</p></td>
+    </tr>
+    <tr style="width:100%; margin-top:10px; display:block; float:left">
+        <td style="width: 17px;">&nbsp;</td>
+        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>E-mail:</strong> lorranne@aquainterativa.com.br</p></td>
+    </tr>
+    <tr style="width:100%; margin-top:10px; display:block; float:left">
+        <td style="width: 17px;">&nbsp;</td>
+        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Telefone:</strong> (34) 9150-7318</p></td>
+    </tr>
+    <tr style="width:100%; margin-top:10px; display:block; float:left">
+        <td style="width: 17px;">&nbsp;</td>
+        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Mensagem:</strong> dasdasd </p></td>
+    </tr>
+
+    <tr style="width:100%; margin-top:10px; display:block; float:left">
+        <td style="width: 17px;">&nbsp;</td>
+        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Imóvel:</strong> /pai_imobiliaria/Desenvolvimento/site/imovel/apartamento-7</p></td>
+    </tr>
+     <tr style="width:100%; margin-top:20px; display:block; float:left">
+        <td colspan="2"><img src="http://imobiliariapai.com.br/site/img/rodape_email.png"></td>
+    </tr>
+</table>
+
+
+
+2015-05-06 13:20:00 Debug: 
+From: Lorranne Nayara Porto Siqueira <lorranne@aquainterativa.com.br>
+To: lorranne@aquainterativa.com.br
+X-Mailer: CakePHP Email
+Date: Wed, 06 May 2015 13:20:00 +0200
+Message-ID: <5549f8e037f440e1b5370ab87aa2a7e8@localhost>
+Subject: Interesse por =?UTF-8?B?aW3Ds3ZlbCAtIFBBSSBpbW9iaWxpw6FyaWE=?=
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+<table width="100%" cellpadding="5" cellspacing="5" >
+    <tr style="width:100%; margin-top:20px; display:block; float:left">
+        <td colspan="2"><a href="http://imobiliariapai.com.br"><img src="http://imobiliariapai.com.br/site/img/topo_email.png" border="0"></a></td>
+    </tr>
+    <tr style="width:100%; margin-top:10px; display:block; float:left">
+        <td style="width: 17px;">&nbsp;</td>
+        <td style="width: 583px;"><h2 style="font-size:16px;margin:10px 10px 0 0;">Contato realizado a partir do formulário do site. Os dados da mensagem são:</h2></td>
+    </tr>
+    <tr style="width:100%; margin-top:10px; display:block; float:left">
+        <td style="width: 17px;">&nbsp;</td>
+        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Nome:</strong> Lorranne Nayara Porto Siqueira</p></td>
+    </tr>
+    <tr style="width:100%; margin-top:10px; display:block; float:left">
+        <td style="width: 17px;">&nbsp;</td>
+        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>E-mail:</strong> lorranne@aquainterativa.com.br</p></td>
+    </tr>
+    <tr style="width:100%; margin-top:10px; display:block; float:left">
+        <td style="width: 17px;">&nbsp;</td>
+        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Telefone:</strong> (34) 9150-7318</p></td>
+    </tr>
+    <tr style="width:100%; margin-top:10px; display:block; float:left">
+        <td style="width: 17px;">&nbsp;</td>
+        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Mensagem:</strong> dsadasd </p></td>
+    </tr>
+
+    <tr style="width:100%; margin-top:10px; display:block; float:left">
+        <td style="width: 17px;">&nbsp;</td>
+        <td style="width: 583px;"><p style="font-size:16px;margin:10px 10px 0 0;"><strong>Imóvel:</strong><a href="/pai_imobiliaria/Desenvolvimento/site/imovel/apartamento-7"> /pai_imobiliaria/Desenvolvimento/site/imovel/apartamento-7</a></p></td>
+    </tr>
+     <tr style="width:100%; margin-top:20px; display:block; float:left">
+        <td colspan="2"><img src="http://imobiliariapai.com.br/site/img/rodape_email.png"></td>
+    </tr>
+</table>
+
+
+

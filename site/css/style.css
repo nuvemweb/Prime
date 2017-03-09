@@ -1,0 +1,32 @@
+a:hover,
+a:active,
+a:focus {
+    text-decoration:none;
+}
+li {
+    list-style: none;
+}
+.logo h1 {
+    display: none;
+}
+
+@media (max-width: 480px) {  
+    /*celular vertical*/
+    
+}
+@media (min-width:481px) and (max-width: 767px) {  
+    /*celular horizontal*/
+    
+}
+@media (min-width: 768px) and (max-width: 979px) {
+    /*tablet vertical*/
+    
+    
+}
+@media (min-width: 979px) and (max-width: 1199px) {
+    /*tablet horizontal*/
+    
+}
+@media (min-width: 1200px) { 
+    
+}
